@@ -7,6 +7,8 @@ For Run the Tools type Below command On your Terminal
 
 apt update && apt upgrade && apt install git && git clone https://github.com/TaNviiR-RiiYaD/setup && cd setup && bash setup.sh
 
+note:(when you run the tools.. if asked you for permission you  just type y then again enter)
+
 Now Your Terminal is Ready for Run Any TooLs
 
 
